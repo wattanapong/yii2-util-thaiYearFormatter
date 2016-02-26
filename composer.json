@@ -1,0 +1,24 @@
+{
+    "name": "wattanapong/yii2-util-thaiYearFormatter",
+    "description": "Convert Year to Thai Buddhist Era Year",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "support": {
+        "source": "https://github.com/wattanapong/yii2-util-thaiYearFormatter"
+    },
+    "authors": [
+        {
+            "name": "wattanapong suttapak",
+            "email": "wattanapong.su@outlook.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-101": {
+            "wattanapong\\util\\thaiYearFormatter\\": ""
+        }
+    }
+}
